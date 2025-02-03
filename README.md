@@ -126,7 +126,7 @@ static void Main(string[] args)
 }
 ```
 
-Após descomentar a linha 17 e comentar o restante das linhas de código do método
+Após descomentar a linha 18 e comentar o restante das linhas de código do método
 `Main`, basta executar o projeto. Você verá, no terminal, as comparações usadas
 como testes.
 
