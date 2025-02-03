@@ -4,7 +4,7 @@ using Teste.Tecnico.Luby.POO.Models;
 
 namespace Teste.Tecnico.Luby.POO.Services
 {
-    public class MenuService
+    public class MenuService : IMenuService
     {
         private readonly IEstoqueService _estoqueService;
         public readonly IProdutoService _produtoService;
