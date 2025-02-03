@@ -1,8 +1,9 @@
-﻿using Teste.Tecnico.Luby.POO.Models;
+﻿using Teste.Tecnico.Luby.POO.Contracts;
+using Teste.Tecnico.Luby.POO.Models;
 
 namespace Teste.Tecnico.Luby.POO.Services
 {
-    public class EstoqueService
+    public class EstoqueService : IEstoqueService
     {
         public void ExibirEstoque(EstoqueModel estoque)
         {
