@@ -1,6 +1,8 @@
-﻿namespace Teste.Tecnico.Luby.POO.Services
+﻿using Teste.Tecnico.Luby.POO.Contracts;
+
+namespace Teste.Tecnico.Luby.POO.Services
 {
-    public class OperacaoService
+    public class OperacaoService : IOperacaoService
     {
         public void ApresentarMenuDaMaquina()
         {
