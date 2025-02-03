@@ -3,6 +3,9 @@
 Esta é a minha resolução do teste técnico para a vaga de Estágio em
 Desenvolvimento da empresa Luby Software.
 
+Este documento segue um fluxo contínuo. Portanto, para um melhor
+entendimento, é recomendado a leitura do começo ao fim.
+
 ## Índice
 
 - [Estrutura do projeto](#estrutura-do-projeto)
